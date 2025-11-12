@@ -1,2 +1,9 @@
-# first-timer
-first_timer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <title>Hello World Website</title>
+ </head>
+<body>
+    <h1 id="greeting">Hello, World!</h1>
+    </body>
+</html>
